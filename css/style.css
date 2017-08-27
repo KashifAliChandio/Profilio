@@ -1,0 +1,89 @@
+/* .body{
+    font-family: 'Baloo Tammudu', cursive;
+} */
+h1,h2,h3,h4{
+    font-family: 'Lobster', cursive;
+}
+.h1{
+    font-family: 'Lobster', cursive !important;
+}
+.navbar-brand{
+    font-size: 20px;
+    padding: 10px;
+
+}
+.bg-light {
+    background-color: #f0e68c !important;
+}
+
+.name{
+    padding: 20px;
+}
+.cv{
+    /* margin: 100px; */
+    margin-bottom: 0px; 
+    font-size: 100px;
+    padding-top: 200px;
+    padding-right: 10px;
+    padding-left: 10px; 
+}
+
+#Home{
+    background: url("../img/man.jpg");
+     background: cover;
+     width: 100%;
+     height: 800px;
+}
+
+#Education{
+    background: brown url("../img/CERT.png");
+     background: cover;
+     width: 100%;
+     height: 1000%;
+     color:  white;
+}
+
+#About {
+    background-color: #f0e68c;
+    font-family: 'Baloo Tammudu', cursive;
+    padding: 80px;
+
+}
+.col-md-6{
+    padding: 20px;
+    font-size: 20px;
+}
+.h2a{
+    font-size: 50px;
+}
+
+.col-md-4 img {
+    width: 100%;
+    height: 100%;
+}
+
+#Education p, div, img ,a {
+    font-family: 'Pacifico', cursive;
+}
+
+#Education img{
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+
+}
+#Education{
+    padding: 30px;
+}
+#Skills{
+    padding: 40px;
+    /* margin: 20px; */
+}
+#Skills img{
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+}
+#Skills{
+    background-color: tomato;
+}
